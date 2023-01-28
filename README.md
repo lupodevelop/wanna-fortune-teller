@@ -1,3 +1,3 @@
 # Wanna Fortune Teller
 --
-![logo](./asset/qWanda.png)
+![logo](./asset/logo.png)
