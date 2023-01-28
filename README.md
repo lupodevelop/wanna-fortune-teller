@@ -1,2 +1,2 @@
-# wanna-fortune-teller
+# Wanna Fortune Teller
 --
