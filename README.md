@@ -1,4 +1,4 @@
-# Wanna Fortune Teller - aka  "Quantum Lottery Experiment"
+# Wanna Fortune Teller - aka  "Super Lotto"
 
 ![logo](./asset/logo.png)
 
