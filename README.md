@@ -1,6 +1,8 @@
-# Wanna Fortune Teller - aka  "Super Lotto"
+
 
 ![logo](./asset/logo.png)
+
+# Wanna Fortune Teller - aka  "Super Lotto"
 
 # Introduction
 
