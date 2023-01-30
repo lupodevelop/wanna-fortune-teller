@@ -10,7 +10,7 @@ In this project, I will be showcasing a small example of how quantum computers c
 
 ### Cultural Background
 
-The project is inspired by a character that is now part of Italian popular folklore, Mrs. Wanna. For those who don't know, signora Wanna was a brilliant television salesperson who worked in the field from the 70s to the early 2000s. During her last years of her career, she became famous for selling "lucky numbers" to play on the national lottery. This, along with other behaviors, led to her arrest and conviction. If you want to learn more about her, you can search for information on Wikipedia or the internet.
+The project is inspired by a character that is now part of Italian popular folklore, signora. Wanna. For those who don't know, signora Wanna was a brilliant television salesperson who worked in the field from the 70s to the early 2000s. During her last years of her career, she became famous for selling "lucky numbers" to play on the national lottery. This, along with other behaviors, led to her arrest and conviction. If you want to learn more about her, you can search for information on Wikipedia or the internet.
 
 ### The Code
 
