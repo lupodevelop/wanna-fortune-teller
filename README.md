@@ -1,7 +1,7 @@
 
 ![logo](./asset/logo.png)
 
-# Wanna Fortune Teller - aka  "Quantum Lottery Experiment"
+# Wanna Fortune Teller - aka  "Super Lotto"
 ## Introduction
 
 Greetings, earthlings! Have you ever pondered upon the possibility of harnessing the power of quantum mechanics to predict the lucky numbers for the lottery? While it may sound like a far-fetched idea, I assure you, it is not. With the rapid advancements in quantum technology, this dream could very well become a reality.
